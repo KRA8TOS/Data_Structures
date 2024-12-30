@@ -13,9 +13,9 @@ This repository contains:
 🛠 Technologies and Tools
 
 - Programming Languages: 
-  - Primary: Python, C++, Java
+  - Primary: C++
 - Version Control: Git & GitHub
-- IDE/Code Editor: Visual Studio Code, JetBrains IntelliJ IDEA (for Java)
+- IDE/Code Editor: Visual Studio Code
 
 🚀 Topics Covered
 
